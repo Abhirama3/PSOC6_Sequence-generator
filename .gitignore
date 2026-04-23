@@ -1,0 +1,28 @@
+# Build output
+build/
+
+# Auto-generated libraries
+libs/
+
+# ModusToolbox IDE files
+.mtbLaunchConfigs/
+.settings/
+.cproject
+.mtbqueryapi
+.project
+library-manager.log
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.tmp
+*~
